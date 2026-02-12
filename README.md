@@ -22,9 +22,28 @@
 
 <div align="center">
   <h2>💫 About Me</h2>
-  <p>
+  <p style="max-width: 600px; margin: 0 auto;">
     Full Stack Developer passionate about crafting elegant solutions to complex problems. With expertise in both front-end and back-end development, I create scalable applications that deliver exceptional user experiences. When I'm not coding, you can find me gaming or exploring new technologies. 🎮
   </p>
+</div>
+
+<div align="center">
+
+  ```javascript
+  const alex = {
+    pronouns: "he/him",
+    code: ["JavaScript", "Python", "Ruby"],
+    technologies: {
+      frontEnd: ["React", "HTML", "CSS", "Tailwind"],
+      backEnd: ["Ruby on Rails", "Python"],
+      databases: ["PostgreSQL", "SQLite"],
+      dataScience: ["Pandas", "NumPy", "Scikit-learn"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with console.log() and I'm not ashamed"
+  };
+  ```
+
 </div>
 
 <br/>
@@ -78,10 +97,15 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexIrungu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats" height="200"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexIrungu&theme=transparent&hide_border=true&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6366F1&sideLabels=6366F1&dates=FFFFFF&background=0D1117" alt="GitHub Streak" height="200"/>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlexIrungu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&count_private=true" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIrungu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=8" alt="Top Languages" height="180"/>
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexIrungu&theme=transparent&hide_border=true&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6366F1&sideLabels=6366F1&dates=FFFFFF&background=0D1117" alt="GitHub Streak" width="500"/>
+  </p>
 </div>
 
 <br/>
@@ -106,5 +130,19 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AlexIrungu/AlexIrungu/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <h2>🐍 Contribution Snake</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexIrungu/AlexIrungu/main/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexIrungu/AlexIrungu/main/dist/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlexIrungu/AlexIrungu/main/dist/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <p>Made with ❤️ and lots of ☕</p>
+  <p>
+    <i>Happy Coding! 🚀</i>
+  </p>
 </div>
