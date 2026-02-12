@@ -13,9 +13,12 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alex-muiruri-6a00b0150"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/_alexirungu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://github.com/AlexIrungu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <h3>🤝 Connect With Me</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/alex-muiruri-6a00b0150"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://twitter.com/_alexirungu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://github.com/AlexIrungu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
 </div>
 
 <br/>
@@ -90,22 +93,37 @@
 </p>
 </div>
 
+<br/>
 
-
+<div align="center">
+  <h2>💼 What I'm Up To</h2>
+  <p>
+    <img src="https://img.shields.io/badge/🔭_Currently_Working_On-Full_Stack_Projects-6366F1?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌱_Learning-Advanced_React_&_Rails-6366F1?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💬_Ask_Me_About-JavaScript,_Python,_Ruby-6366F1?style=for-the-badge" />
+  </p>
+</div>
 
 <br/>
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlexIrungu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&count_private=true" alt="GitHub Stats" height="180"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIrungu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=8" alt="Top Languages" height="180"/>
-  </p>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlexIrungu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&count_private=true" alt="GitHub Stats" height="200"/>
+  </div>
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexIrungu&theme=transparent&hide_border=true&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6366F1&sideLabels=6366F1&dates=FFFFFF&background=0D1117" alt="GitHub Streak" width="500"/>
-  </p>
+  <br/>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIrungu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=8&card_width=445" alt="Top Languages"/>
+  </div>
+
+  <br/>
+
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexIrungu&theme=transparent&hide_border=true&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6366F1&sideLabels=6366F1&dates=FFFFFF&background=0D1117" alt="GitHub Streak"/>
+  </div>
 </div>
 
 <br/>
@@ -117,8 +135,17 @@
 <br/>
 
 <div align="center">
+  <h2>📈 GitHub Metrics</h2>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexIrungu&theme=tokyonight" alt="Profile Details"/>
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
   <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=AlexIrungu&theme=discord&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexIrungu&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -140,9 +167,4 @@
 
 ---
 
-<div align="center">
-  <p>Made with ❤️ and lots of ☕</p>
-  <p>
-    <i>Happy Coding! 🚀</i>
-  </p>
-</div>
+
