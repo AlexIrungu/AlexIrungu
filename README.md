@@ -26,7 +26,7 @@
 <div align="center">
   <h2>💫 About Me</h2>
   <p style="max-width: 600px; margin: 0 auto;">
-    Full Stack Developer passionate about crafting elegant solutions to complex problems. With expertise in both front-end and back-end development, I create scalable applications that deliver exceptional user experiences. When I'm not coding, you can find me gaming or exploring new technologies. 🎮
+    Full Stack Developer based in Kenya, building products and freelancing across web and mobile. I ship fast, write clean code, and care about the details — from database schema to UI motion. Currently working on Fuelpoa, KejaMatch, and client projects. 🇰🇪
   </p>
 </div>
 
@@ -35,14 +35,14 @@
   ```javascript
   const alex = {
     pronouns: "he/him",
-    code: ["JavaScript", "Python", "Ruby"],
+    code: ["JavaScript", "TypeScript", "Python"],
     technologies: {
-      frontEnd: ["React", "HTML", "CSS", "Tailwind"],
-      backEnd: ["Ruby on Rails", "Python"],
-      databases: ["PostgreSQL", "SQLite"],
-      dataScience: ["Pandas", "NumPy", "Scikit-learn"]
+      frontEnd: ["React", "Next.js", "Tailwind CSS", "Framer Motion", "Vite"],
+      backEnd: ["Node.js", "Express", "Python"],
+      databases: ["Supabase", "PostgreSQL"],
+      tools: ["Git", "GitHub Actions", "Postman", "Resend"]
     },
-    currentFocus: "Building scalable web applications",
+    currentFocus: "Shipping products people actually use",
     funFact: "I debug with console.log() and I'm not ashamed"
   };
   ```
@@ -54,42 +54,33 @@
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
 
- <h3 align="center">Frontend</h3>
+<h3 align="center">Frontend</h3>
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="vite" /></a>
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="ruby" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="rails" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="sqlite" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="supabase" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="postgresql" /></a>
 </p>
 
-<h3 align="center">Data Science</h3>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
-</p>
-
-<h3 align="center">Tools & Technologies</h3>
+<h3 align="center">Tools & Deployment</h3>
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="github actions" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="netlify" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="heroku" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" /></a>
 </p>
 </div>
 
@@ -98,10 +89,79 @@
 <div align="center">
   <h2>💼 What I'm Up To</h2>
   <p>
-    <img src="https://img.shields.io/badge/🔭_Currently_Working_On-Full_Stack_Projects-6366F1?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🌱_Learning-Advanced_React_&_Rails-6366F1?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/💬_Ask_Me_About-JavaScript,_Python,_Ruby-6366F1?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🔭_Working_On-Fuelpoa_&_KejaMatch-6366F1?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌱_Exploring-Next.js_App_Router_&_AI_Integrations-6366F1?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💬_Ask_Me_About-React,_Node.js,_Supabase-6366F1?style=for-the-badge" />
   </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
+
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">⛽ Fuelpoa</h3>
+        <p align="center">
+          Real-time Kenya fuel price tracker. Pulls EPRA data, displays cheapest stations near you, and sends SMS alerts via Africa's Talking.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+        </p>
+        <p align="center">
+          <a href="https://fuelpoa.com"><img src="https://img.shields.io/badge/Live-fuelpoa.com-6366F1?style=for-the-badge" /></a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🏠 KejaMatch</h3>
+        <p align="center">
+          Kenyan real estate platform connecting tenants and landlords. Features verified listings, smart search, and a blog.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+        </p>
+        <p align="center">
+          <a href="https://kejamatch.com"><img src="https://img.shields.io/badge/Live-kejamatch.com-6366F1?style=for-the-badge" /></a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🏛️ Martin Munga Architects</h3>
+        <p align="center">
+          Architecture firm portfolio site. Clean, minimal, with animated project showcases and a contact system via Resend.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
+        </p>
+        <p align="center">
+          <a href="https://trimdesignconsultancy.com"><img src="https://img.shields.io/badge/Live-trimdesignconsultancy.com-6366F1?style=for-the-badge" /></a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">👤 Portfolio</h3>
+        <p align="center">
+          Personal portfolio and landing page showcasing my work, skills, and writing.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        </p>
+        <p align="center">
+          <a href="https://alexirungu.com"><img src="https://img.shields.io/badge/Live-alexirungu.com-6366F1?style=for-the-badge" /></a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
